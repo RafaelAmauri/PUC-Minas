@@ -13,6 +13,7 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 ## Período 2
 
 * [Algoritmos e Estruturas de Dados 2](https://github.com/RafaelAmauri/Algoritmos-e-Estruturas-de-Dados-2)
+* [Seminários 2](https://github.com/RafaelAmauri/Seminarios-2)
 
 ## Período 3
 * [Algoritmos e Estruturas de Dados 3](https://github.com/RafaelAmauri/Algoritmos-e-Estruturas-de-Dados-3)
