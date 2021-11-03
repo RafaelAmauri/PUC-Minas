@@ -18,6 +18,7 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 ## Período 3
 * [Algoritmos e Estruturas de Dados 3](https://github.com/RafaelAmauri/Algoritmos-e-Estruturas-de-Dados-3)
 * [Arquitetura de Computadores 1](https://github.com/RafaelAmauri/Arquitetura-de-Computadores-1)
+* [Religião](https://github.com/RafaelAmauri/Religiao)
 
 ## Período 4
 * [Banco de Dados](https://github.com/RafaelAmauri/Banco-de-Dados)
