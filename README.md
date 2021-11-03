@@ -6,6 +6,10 @@ Meus códigos inteiros ou trechos deles podem ser usados por todos, sem restriç
 
 O uso dos códigos neste repositório é por conta e risco do usuário.
 
+## Período 1
+* [Algoritmos e Estruturas de Dados 1](https://github.com/RafaelAmauri/Algoritmos-e-Estruturas-de-Dados-1)
+* [Seminários 1](https://github.com/RafaelAmauri/Seminarios-1)
+
 ## Período 2
 
 * [Algoritmos e Estruturas de Dados 2](https://github.com/RafaelAmauri/Algoritmos-e-Estruturas-de-Dados-2)
