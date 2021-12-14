@@ -30,4 +30,4 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 * [Laboratório de Projetos de Algoritmos](https://github.com/RafaelAmauri/Laboratorio-de-Projetos-de-Algoritmos)
 * [Engenharia de Software 2](https://github.com/RafaelAmauri/Engenharia-de-Software-2)
 * [Linguagens de Programação](https://github.com/RafaelAmauri/Linguagens-de-Programacao)
-* [Programação Paralela](https://github.com/RafaelAmauri/Programacao-Paralela)
+* [Computação Paralela](https://github.com/RafaelAmauri/Programacao-Paralela)
