@@ -27,8 +27,18 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 
 ## Período 5
 * [Arquitetura de Computadores 2](https://github.com/RafaelAmauri/Arquitetura-de-Computadores-2)
-* [Laboratório de Projetos de Algoritmos](https://github.com/RafaelAmauri/Laboratorio-de-Projetos-de-Algoritmos)
-* [Engenharia de Software 2](https://github.com/RafaelAmauri/Engenharia-de-Software-2)
-* [Linguagens de Programação](https://github.com/RafaelAmauri/Linguagens-de-Programacao)
 * [Computação Paralela](https://github.com/RafaelAmauri/Programacao-Paralela)
+* [Engenharia de Software 2](https://github.com/RafaelAmauri/Engenharia-de-Software-2)
+* [Laboratório de Projetos de Algoritmos](https://github.com/RafaelAmauri/Laboratorio-de-Projetos-de-Algoritmos)
+* [Linguagens de Programação](https://github.com/RafaelAmauri/Linguagens-de-Programacao)
 * [Projeto e Análise de Algoritmos](https://github.com/RafaelAmauri/Projeto-e-Analise-de-Algoritmos)
+
+## Período 6
+* [Arquitetura de Computadores 3](https://github.com/RafaelAmauri/Arquitetura-de-Computadores-3)
+* [Engenharia de Software 3](https://github.com/RafaelAmauri/Engenharia-de-Software-3)
+* [Inteligência Artificial](https://github.com/RafaelAmauri/Inteligencia-Artificial)
+* [Laboratório de Projeto de Sistemas](https://github.com/RafaelAmauri/Laboratorio-de-Projeto-de-Sistemas)
+* [Processamento de Imagens](https://github.com/RafaelAmauri/Processamento-de-Imagens)
+* [Redes de Computadores 1](https://github.com/RafaelAmauri/Redes-de-Computadores-1)
+* [Segurança e Auditoria de Sistemas](https://github.com/RafaelAmauri/Processamento-de-Imagens)
+* [Sistemas Operacionais](https://github.com/RafaelAmauri/Sistemas-Operacionais)
