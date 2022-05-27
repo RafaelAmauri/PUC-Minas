@@ -37,7 +37,6 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 * [Arquitetura de Computadores 3](https://github.com/RafaelAmauri/Arquitetura-de-Computadores-3)
 * [Engenharia de Software 3](https://github.com/RafaelAmauri/Engenharia-de-Software-3)
 * [Inteligência Artificial](https://github.com/RafaelAmauri/Inteligencia-Artificial)
-* [Laboratório de Projeto de Sistemas](https://github.com/RafaelAmauri/Laboratorio-de-Projeto-de-Sistemas)
 * [Processamento de Imagens](https://github.com/RafaelAmauri/Processamento-de-Imagens)
 * [Redes de Computadores 1](https://github.com/RafaelAmauri/Redes-de-Computadores-1)
 * [Segurança e Auditoria de Sistemas](https://github.com/RafaelAmauri/Processamento-de-Imagens)
