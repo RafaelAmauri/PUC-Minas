@@ -39,5 +39,4 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 * [Inteligência Artificial](https://github.com/RafaelAmauri/Inteligencia-Artificial)
 * [Processamento de Imagens](https://github.com/RafaelAmauri/Processamento-de-Imagens)
 * [Redes de Computadores 1](https://github.com/RafaelAmauri/Redes-de-Computadores-1)
-* [Segurança e Auditoria de Sistemas](https://github.com/RafaelAmauri/Processamento-de-Imagens)
 * [Sistemas Operacionais](https://github.com/RafaelAmauri/Sistemas-Operacionais)
