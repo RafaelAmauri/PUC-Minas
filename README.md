@@ -45,6 +45,5 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 ## Período 7
 * [Computação Distribuída](https://github.com/RafaelAmauri/Computacao-Distribuida)
 * [Fundamentos Teóricos da Computação](https://github.com/RafaelAmauri/Fundamentos-Teoricos-da-Computacao)
-* [Game Design](https://github.com/RafaelAmauri/Game-Design)
 * [Laboratório de Redes e Sistemas Operacionais](https://github.com/RafaelAmauri/LRSO)
 * [Modelagem e Avaliação de Desempenho](https://github.com/RafaelAmauri/Modelagem-e-Avaliacao-de-Desempenho)
