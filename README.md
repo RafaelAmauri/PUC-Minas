@@ -24,6 +24,7 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 * [Banco de Dados](https://github.com/RafaelAmauri/Banco-de-Dados)
 * [LDDM](https://github.com/RafaelAmauri/LDDM)
 * [Teoria de Grafos](https://github.com/RafaelAmauri/Teoria-de-Grafos)
+* [Modelagem e Avaliação de Desempenho](https://github.com/RafaelAmauri/Modelagem-e-Avaliacao-de-Desempenho)
 
 ## Período 5
 * [Arquitetura de Computadores 2](https://github.com/RafaelAmauri/Arquitetura-de-Computadores-2)
@@ -32,6 +33,7 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 * [Laboratório de Projetos de Algoritmos](https://github.com/RafaelAmauri/Laboratorio-de-Projetos-de-Algoritmos)
 * [Linguagens de Programação](https://github.com/RafaelAmauri/Linguagens-de-Programacao)
 * [Projeto e Análise de Algoritmos](https://github.com/RafaelAmauri/Projeto-e-Analise-de-Algoritmos)
+* [Fundamentos Teóricos da Computação](https://github.com/RafaelAmauri/Fundamentos-Teoricos-da-Computacao)
 
 ## Período 6
 * [Arquitetura de Computadores 3](https://github.com/RafaelAmauri/Arquitetura-de-Computadores-3)
@@ -44,6 +46,4 @@ O uso dos códigos neste repositório é por conta e risco do usuário.
 
 ## Período 7
 * [Computação Distribuída](https://github.com/RafaelAmauri/Computacao-Distribuida)
-* [Fundamentos Teóricos da Computação](https://github.com/RafaelAmauri/Fundamentos-Teoricos-da-Computacao)
 * [Laboratório de Redes e Sistemas Operacionais](https://github.com/RafaelAmauri/LRSO)
-* [Modelagem e Avaliação de Desempenho](https://github.com/RafaelAmauri/Modelagem-e-Avaliacao-de-Desempenho)
