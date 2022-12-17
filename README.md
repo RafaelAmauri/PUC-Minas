@@ -5,7 +5,7 @@ Códigos e projetos feitos durante minha graduação em Ciência da Computação
 A minha intenção com esse repositório é ajudar os alunos do curso a não passarem por algumas das dificuldades que eu passei e terem algum recurso para aprender a matéria por fora ou ter uma ideia de o que os professores e professoras pedem, o que foi uma coisa que eu infelizmente não tive diversas vezes.
 
 👇👇
-### Mas também é importante chamar atenção para o valor de **aprender as matérias da faculdade!** Às vezes pode parecer difícil, mas de verdade, não é.
+### Mas também é importante chamar atenção para o valor de **aprender as matérias da faculdade!** Às vezes pode parecer difícil, mas de verdade, não é!!
 ☝️☝️
 
 Mantenho esse repositório no ar com a esperança de que ele vai ser usado para fins educacionais e ajudar pessoas com dúvidas. Se apenas 1% das pessoas que visitam aqui usam o meu GitHub para aprender, já é o bastante para mim :)
