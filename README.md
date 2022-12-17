@@ -1,10 +1,17 @@
 # PUC Minas
 
-Códigos e projetos feitos durante minha graduação em Ciência da Computação. Cada link se refere a um repositório de uma matéria.
+Códigos e projetos feitos durante minha graduação em Ciência da Computação. Cada link se refere a um repositório de uma matéria. 
 
-Meus códigos inteiros ou trechos deles podem ser usados por todos, sem restrições. Tenha em mente que eu **NÃO** me responsabilizo por possíveis acusações de plágio ou cola, sejam elas por parte da PUC-MG ou qualquer outra instituição/pessoa.
+A minha intenção com esse repositório é ajudar os alunos do curso a não passarem por algumas das dificuldades que eu passei e terem algum recurso para aprender a matéria por fora ou ter uma ideia de o que os professores e professoras pedem, o que foi uma coisa que eu infelizmente não tive diversas vezes.
 
-O uso dos códigos neste repositório é por conta e risco do usuário.
+👇👇
+### Mas também é importante chamar atenção para o valor de **aprender as matérias da faculdade!** Às vezes pode parecer difícil, mas de verdade, não é.
+☝️☝️
+
+Mantenho esse repositório no ar com a esperança de que ele vai ser usado para fins educacionais e ajudar pessoas com dúvidas. Se apenas 1% das pessoas que visitam aqui usam o meu GitHub para aprender, já é o bastante para mim :)
+
+
+O uso dos códigos neste repositório é por conta e risco do usuário! Tenha em mente que eu **NÃO** me responsabilizo por possíveis acusações de plágio ou cola, sejam elas por parte da PUC-MG ou qualquer outra instituição/pessoa.
 
 ## Período 1
 * [Algoritmos e Estruturas de Dados 1](https://github.com/RafaelAmauri/Algoritmos-e-Estruturas-de-Dados-1)
