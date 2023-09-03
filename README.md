@@ -58,6 +58,5 @@ O uso dos códigos neste repositório é por conta e risco do usuário! Tenha em
 ## Período 8
 * [Compiladores](https://github.com/RafaelAmauri/Compiladores)
 * [Computação Gráfica](https://github.com/RafaelAmauri/Computacao-Grafica)
-* [Otimização de Sistemas](https://github.com/RafaelAmauri/Otimizacao)
 * [Redes de Computadores 2](https://github.com/RafaelAmauri/Redes-de-Computadores-2)
 * [Trabalho de Conclusão de Curso](https://github.com/RafaelAmauri/TCC)
