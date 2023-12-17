@@ -54,9 +54,6 @@ O uso dos códigos neste repositório é por conta e risco do usuário! Tenha em
 
 ## Período 7
 * [Laboratório de Redes e Sistemas Operacionais](https://github.com/RafaelAmauri/LRSO)
-
-## Período 8
-* [Compiladores](https://github.com/RafaelAmauri/Compiladores)
 * [Computação Gráfica](https://github.com/RafaelAmauri/Computacao-Grafica)
-* [Redes de Computadores 2](https://github.com/RafaelAmauri/Redes-de-Computadores-2)
+## Período 8
 * [Trabalho de Conclusão de Curso](https://github.com/RafaelAmauri/TCC)
